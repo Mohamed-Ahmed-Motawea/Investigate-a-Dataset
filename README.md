@@ -11,15 +11,9 @@ old version created under Udacity Nanodegree View Here
 
 The project involved data assessment and cleaning, performing EDA and drawing conclusions from the data.
 
-#### Technologies Used :
+#### Tools Used :
 1. Python, Numpy, Pandas, Matplotlib, Seaborn
 2. Jupyter Notebook
-
-#### Technologies Used :
-1. Introduction
-2. Data Wrangling
-3. Exploratory Data Analysis
-4. Conclusions
 
 #### Key Insights for Presentation :
 1. Which genres of movies are most? 
